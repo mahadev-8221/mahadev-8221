@@ -1,59 +1,255 @@
+# 👋 Hi, I'm Mahadev Jangam
 
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | React.js | AWS | Backend Enthusiast
+</h3>
 
-<!--
-**mahadev-8221/mahadev-8221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Mahadev Jangam</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Java, Spring Boot, React.js, SQL & AWS Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadev-8221" alt="mahadev-8221" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mahadevjangam3" target="blank"><img src="https://img.shields.io/twitter/follow/mahadevjangam3?logo=twitter&style=for-the-badge" alt="mahadevjangam3" /></a> </p>
-
-- 🔭 I’m currently working on **Java Full Stack and Spring Boot Projects**
-
-- 🌱 I’m currently learning **Spring Security, AWS, Docker, System Design**
-
-- 👯 I’m looking to collaborate on **Java Full Stack**
-
-- 🤝 I’m looking for help with **Cloud Deployment & Microservices Architecture**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-tk1l.vercel.app/](https://portfolio-tk1l.vercel.app/)
-
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
-
-- 💬 Ask me about **Java, Spring Boot, React.js, JDBC, Hibernate, SQL**
-
-- 📫 How to reach me **mahadevjangam@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-tk1l.vercel.app/](https://portfolio-tk1l.vercel.app/)
-
-- ⚡ Fun fact **I enjoy solving coding problems and building full-stack applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahadevjangam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahadevjangam3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahadev-jangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadev-jangam" height="30" width="40" /></a>
-<a href="https://instagram.com/_mahadev.j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mahadev.j_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahadev_jangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahadev_jangam" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;AWS+%7C+Docker+%7C+Linux;Always+Learning+New+Technologies"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mahadev-8221&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadev-8221&show_icons=true&locale=en&layout=compact" alt="mahadev-8221" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadev-8221&show_icons=true&locale=en" alt="mahadev-8221" /></p>
+# 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadev-8221&" alt="mahadev-8221" /></p>
+- 🎓 Electronics & Communication Engineering Graduate
+- 💻 Passionate Java Full Stack Developer
+- 🚀 Building scalable web applications using Spring Boot & React
+- ☁️ Learning Cloud Computing, AWS & DevOps
+- 🔐 Experienced with Spring Security & JWT Authentication
+- 🗄️ Strong understanding of SQL, Hibernate & REST APIs
+- 🧩 Solved 120+ DSA problems on LeetCode
+- 🤖 Three-Time National Robotics Competition Winner
+- 📚 Currently learning Microservices & System Design
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/mahadev-jangam">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:mahadevjangam@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/mahadev_jangam/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎫 BookMyTicket
+
+**Java | Spring Boot | React | MySQL**
+
+- Online Movie Ticket Booking Platform
+- JWT Authentication
+- Role-Based Authorization
+- REST APIs
+- Responsive UI
+- Booking Management
+
+---
+
+## 🛒 KrishiMart
+
+**Spring Boot | React | MySQL**
+
+- Farmer-to-Customer Marketplace
+- Product Management
+- Authentication System
+- Admin Dashboard
+- Secure REST APIs
+
+---
+
+## 🏦 ATM Management System
+
+**Java | Hibernate | MySQL**
+
+- Console-Based Banking Application
+- CRUD Operations
+- Database Integration
+- Transaction Management
+
+---
+
+## 📋 Buyer Lead Management
+
+**Spring Boot | PostgreSQL**
+
+- Lead Tracking System
+- Customer Management
+- Search & Filter
+- Database Optimization
+
+---
+
+# ⚙️ Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+<img src="https://skillicons.dev/icons?i=maven" height="45"/>
+<img src="https://skillicons.dev/icons?i=hibernate" height="45"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Docker
+- AWS
+- Kubernetes
+- Jenkins
+- CI/CD
+- Microservices
+- System Design
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahadev-8221&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadev-8221&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-8221&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadev-8221&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev-8221&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mahadev-8221/mahadev-8221/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadev-8221&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Career Focus
+
+- Java Backend Development
+- Spring Boot
+- Full Stack Development
+- Cloud Computing (AWS)
+- DevOps
+- Microservices
+- REST API Development
+- System Design
+
+---
+
+### ⭐ *"Passionate about building scalable backend systems, solving real-world problems, and continuously learning modern technologies."*
