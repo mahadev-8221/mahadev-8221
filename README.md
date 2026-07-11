@@ -191,9 +191,9 @@ Java Full Stack Developer | Spring Boot | React.js | AWS | Backend Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadev-8221&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev0175&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-8221&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0175&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -203,7 +203,7 @@ Java Full Stack Developer | Spring Boot | React.js | AWS | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadev-8221&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0175&theme=tokyonight"/>
 
 </p>
 
@@ -213,7 +213,7 @@ Java Full Stack Developer | Spring Boot | React.js | AWS | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev-8221&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev0175&theme=tokyo-night"/>
 
 </p>
 
@@ -223,7 +223,7 @@ Java Full Stack Developer | Spring Boot | React.js | AWS | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mahadev-8221/mahadev-8221/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/dev0175/dev0175/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -233,7 +233,7 @@ Java Full Stack Developer | Spring Boot | React.js | AWS | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadev-8221&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev0175&theme=tokyonight"/>
 
 </p>
 
